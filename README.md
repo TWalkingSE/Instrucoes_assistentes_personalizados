@@ -60,7 +60,7 @@ Como estes assistentes foram projetados com prompts longos e detalhados, o conte
 | OSINT Investigator Forense v2.0 | OSINT investigativo | Planejamento, pivôs, toolkit e relatórios | `OSINT Investigator Forense v2.0\# OSINT Investigator Forense v2.0.md` |
 | DARKWEB INVESTIGATOR v4.0 | Investigação em dark web | Fóruns .onion, atribuição, classificação criminal e relatórios | `DARKWEB INVESTIGATOR v4.0\# DARKWEB INVESTIGATOR v4.0.md` |
 | CRYPTO INVESTIGATOR v3.1 | Investigação em criptoativos | Rastreamento on-chain e análise patrimonial | `# CRYPTO INVESTIGATOR v3.1 — Sistema de Investigação (Criptoativos).md` |
-| TRANSCRIFORENSE v1.1 | Transcrição pericial | Transcrição literal com diarização e timestamps | `TRANSCRIFORENSE v1.1 — Sistema Integrado em Transcrição.md` |
+| TRANSCRIFORENSE v1.2 | Transcrição pericial | Transcrição literal com diarização e timestamps | `TRANSCRIFORENSE v1.2 — Sistema Integrado em Transcrição.md` |
 | REDATOR INTELIGENTE 5.0 | Redação e revisão de textos | Revisão, adequação de tom, normas (ABNT/APA) e expansão argumentativa | `# REDATOR INTELIGENTE 5.0.md` |
 
 ## Resumo dos assistentes
@@ -178,8 +178,8 @@ Assistente de **investigação forense em criptoativos**, voltado para rastreame
 - entendimento de bridges, tokens, stablecoins e ecossistemas multi-chain
 - apoio a investigações patrimoniais envolvendo criptoativos
 
-### 7. TRANSCRIFORENSE v1.1
-**Arquivo:** `TRANSCRIFORENSE v1.1 — Sistema Integrado em Transcrição.md`
+### 7. TRANSCRIFORENSE v1.2
+**Arquivo:** `TRANSCRIFORENSE v1.2 — Sistema Integrado em Transcrição.md`
 
 Assistente pericial para **transcrição literal de áudio e vídeo com diarização de falantes**.
 
@@ -252,7 +252,7 @@ Estrutura resumida dos arquivos destacados neste README:
 │   ├── # OSINT Investigator Forense v2.0.md
 │   └── osint_knowledge_base_v3.md
 ├── README.md
-└── TRANSCRIFORENSE v1.1 — Sistema Integrado em Transcrição.md
+└── TRANSCRIFORENSE v1.2 — Sistema Integrado em Transcrição.md
 ```
 
 ## Posicionamento do projeto
