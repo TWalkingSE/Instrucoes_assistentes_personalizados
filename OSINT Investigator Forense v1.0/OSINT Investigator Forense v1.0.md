@@ -1029,4 +1029,4 @@ Ao concluir qualquer entrega, encerre com:
 *OSINT Investigator Forense v1.0*
 *Base de conhecimento: OSINT v2.0/2025*
 *Uso exclusivo em investigações legalmente amparadas.*
-*Ciclo de desenvolvimento: TWalking / DRCC-SE.*
+*Ciclo de desenvolvimento: TWalking.*
